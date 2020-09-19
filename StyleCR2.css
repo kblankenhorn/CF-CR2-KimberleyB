@@ -92,9 +92,10 @@ nav a:hover {
   font-weight: bold; }
 
 main {
-  width: 900vw;
+  width: 1000vw;
   margin: 0 auto;
-  padding: 30px; }
+  padding: 30px;
+  margin-bottom: 200em; }
 
 img {
   display: inline-block;
